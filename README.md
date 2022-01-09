@@ -1,6 +1,9 @@
 # Sudor y sangre
 > Todo el software utilizado en la plantilla Sudor y sangre es publicado bajo la ***licencia del MIT***.
 ---
+Si gustas puedes realizarle una donación al autor de esta plantilla para recompensar su trabajo y su tiempo. A continuación se encuentran los links a las plataformas por medio de las cuales puedes donar, muchas gracias! 
+![image](https://user-images.githubusercontent.com/53922735/148694264-2dc3a9d9-70d1-47ae-8b74-1bb0fac79e97.png)
+---
 La plantilla Sudor y sangre fue diseñada con un gran enfoque en la sobrecarga progresiva. Si llevas algo de tiempo entrenando sabrás que los tres pilares del entrenamiento son la alimentación, el descanso y la sobrecarga progresiva, y está plantilla los tiene en cuenta a todos, por favor aprovéchala!
 ## Componentes y funcionalidades ofrecidas por la plantilla
 ### Base de datos de ejercicios
