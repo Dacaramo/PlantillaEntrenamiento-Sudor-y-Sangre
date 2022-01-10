@@ -18,7 +18,7 @@ Además de poder registrar el nombre del ejercicio, se puede también registrar 
 El peso corporal resulta muy relevante a la hora de saber si el entrenamiento ha sido efectivo o no. Adicionalmente, el peso corporal es uno de los datos que se utilizan para que el resumen general pueda generarse correctamente.
 ### Componente de dieta y nutrición
 La plantilla provee un apartado de dieta y nutrición que cuenta con una **calculadora de metabolísmo basal** por medio de la cual usted puede hallar la cantidad de calorías que necesita consumir para cumplir sus objetivos.
-![Calculadora de metabolísmo basal](/images/calculadora.png)
+![Calculadora de metabolísmo basal](/images/calculadora.png)\
 En la hoja de dieta y nutrición también encontrará una base de datos con múltiples alimentos que se pueden clasificar por macros predominantes en cada alimento, el tipo de alimento, gramos de proteína, calorías, entre otros filtros. 
 ![Base de datos de alimentos](/images/baseAlimentos.png)
 La base de datos de alimentos le permite descubrir alimentos para que usted pueda armar múltiples opciones de comidas (meals). En la hoja de dieta y nutrición, usted encontrará el aparatado de "comidas", donde puede seleccionar hasta 5 alimentos por comida e ingresar el peso de cada alimento a ingerir para posteriormente poder visualizar los gramos de proteína y las calorías por cada alimento, por cada comida y por cada día (Teniendo en cuenta que en el día hay hasta 5 comidas).
