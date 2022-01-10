@@ -3,7 +3,7 @@
 ---
 La plantilla Sudor y sangre fue diseñada con un gran enfoque en la sobrecarga progresiva. Si llevas algo de tiempo entrenando sabrás que los tres pilares del entrenamiento son la alimentación, el descanso y la sobrecarga progresiva, y está plantilla los tiene en cuenta a todos, por favor aprovéchala!
 ## Donaciones
-Si gustas puedes realizarle una donación al autor de esta plantilla para recompensar su trabajo y su tiempo. A continuación se encuentran los links a las plataformas por medio de las cuales puedes donar, muchas gracias!
+Si gustas puedes realizarle una donación al autor de esta plantilla para recompensar su trabajo y su tiempo. A continuación se encuentran los links a las plataformas por medio de las cuales puedes donar, muchas gracias!\
 ![Dona aquí por medio de PayPal](/images/donateButtonImage.png)
 ## Componentes y funcionalidades ofrecidas por la plantilla
 ### Base de datos de ejercicios
